@@ -20,6 +20,7 @@ I help businesses automate and grow using AI tools.
 | Project | Description | Tech |
 |---------|-------------|------|
 | 📄 PDF Reader AI | Ask questions from any PDF | Python, Gemini AI |
+| 💬 Customer Support Chatbot | AI chatbot with memory for any business | Python, Streamlit, Gemini AI |
 
 ---
 
